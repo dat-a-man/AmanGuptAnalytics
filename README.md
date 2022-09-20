@@ -8,7 +8,7 @@ Here's my **MISSION**:
 My mission is to enable and improve the data usage and analytics capabilities of my stakeholders.
 
 
-*A bit of my **BIO**:
+*A bit of **BIO**:
 
 -   After seven years in civil engineering, I understood that data is at the core of each successful project.
 -   Along with a handful of experience in ad-hoc analytics concerning civil engineering projects, I was actively involved in learning data engineering part-time.
