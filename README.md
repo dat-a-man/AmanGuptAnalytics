@@ -3,14 +3,12 @@ Hope you are doing good.
 
 I am a Data Enthusiast and love (❤️) the data engineering and BI side of data. I am transitioning from Civil Engineering to Data Engineering and started about a year back. With dozens of courses finished, this is my  GitHub repo containing several data engineering and analytics projects. I have developed these projects with passion and in a self-motivated way. I have also done some freelancing. Details are  on my [resume](https://drive.google.com/file/d/1GtnjfnNVAqvnVOV52VTbBd2OW3i-Ez2X/view?usp=sharing). 
 
-Here's my mission: 
-**MISSION**
+Here's my **MISSION**:
 
 My mission is to enable and improve the data usage and analytics capabilities of my stakeholders.
 
 
-*A bit of my bio:*
-**BIO**
+*A bit of my **BIO**:
 
 -   After seven years in civil engineering, I understood that data is at the core of each successful project.
 -   Along with a handful of experience in ad-hoc analytics concerning civil engineering projects, I was actively involved in learning data engineering part-time.
