@@ -1,4 +1,4 @@
-# Hello Folks 😊
+# Hi 😊
 Hope you are doing good.
 
 I am a Data Enthusiast and love (❤️) the data engineering and BI side of data. I am transitioning from Civil Engineering to Data Engineering and started about a year back. With dozens of courses finished, this is my  GitHub repo containing several data engineering and analytics projects. I Have also done some freelancing. Details are  on [resume](https://drive.google.com/file/d/1GtnjfnNVAqvnVOV52VTbBd2OW3i-Ez2X/view?usp=sharing). 
