@@ -5,11 +5,17 @@ I'm a dynamic data and analytics engineer with the ability to deliver short or l
 
 
 I specialize in the following data solutions:
+
 ✔️ Data strategy advisory & technology selection/recommendation
+
 ✔️ Building data warehouses using modern cloud platforms and technologies
+
 ✔️ Creating and automating data pipelines & ETL processes
+
 ✔️ Building highly intuitive, interactive dashboards.
+
 ✔️ Data Cleaning and Processing
+
 ✔️ Data Migration (Heterogenous and Homogenous)
 
 
