@@ -17,7 +17,7 @@ A bit of **BIO**:
 
 
 
-#### **Projects** 
+### **Projects** 
 
 + [**Project-1: Analytics-Engineering-Using-dbt-and-BQ**](https://github.com/AmanGuptAnalytics/Project-One-Analytics-Engineering-Using-dbt-and-BQ)
   + End-To-End data project, with dashboards created for businesses to know the most selling product, sales agent tracking, product inventory dashboards and more.
