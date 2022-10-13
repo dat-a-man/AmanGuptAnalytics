@@ -1,11 +1,16 @@
 # ***Hello folks*** 😊
 Hope you are doing good.
 
-I am a Data Enthusiast and love (❤️) the data engineering and BI side of data. I have been doing Data Engineering and Analytics from about a year. Learning from seniors/mentors, I have done the projects linked below.Welcome to my GitHub repo. I Have also done some freelancing. Details are  on [resume](https://drive.google.com/file/d/1GtnjfnNVAqvnVOV52VTbBd2OW3i-Ez2X/view?usp=sharing). 
+I'm a dynamic data and analytics engineer with the ability to deliver short or long-term projects in data engineering, data warehousing and the business intelligence realm. My mission is to enable and improve the data usage and analytics capabilities of my stakeholders. I wish to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
 
-Here's my **MISSION**:
 
-My mission is to enable and improve the data usage and analytics capabilities of my stakeholders.
+I specialize in the following data solutions:
+✔️ Data strategy advisory & technology selection/recommendation
+✔️ Building data warehouses using modern cloud platforms and technologies
+✔️ Creating and automating data pipelines & ETL processes
+✔️ Building highly intuitive, interactive dashboards.
+✔️ Data Cleaning and Processing
+✔️ Data Migration (Heterogenous and Homogenous)
 
 
 A bit of **BIO**:
