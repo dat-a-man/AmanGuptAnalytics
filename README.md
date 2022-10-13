@@ -1,7 +1,7 @@
 # ***Hello folks*** 😊
 Hope you are doing good.
 
-I am a Data Enthusiast and love (❤️) the data engineering and BI side of data. I have been doing Data Engineering and Analytics from about a year. Learning from seniors/mentors, I have done the projects linked below.Welcome to my  GitHub repo containing several data engineering and analytics projects. I Have also done some freelancing. Details are  on [resume](https://drive.google.com/file/d/1GtnjfnNVAqvnVOV52VTbBd2OW3i-Ez2X/view?usp=sharing). 
+I am a Data Enthusiast and love (❤️) the data engineering and BI side of data. I have been doing Data Engineering and Analytics from about a year. Learning from seniors/mentors, I have done the projects linked below.Welcome to my GitHub repo. I Have also done some freelancing. Details are  on [resume](https://drive.google.com/file/d/1GtnjfnNVAqvnVOV52VTbBd2OW3i-Ez2X/view?usp=sharing). 
 
 Here's my **MISSION**:
 
