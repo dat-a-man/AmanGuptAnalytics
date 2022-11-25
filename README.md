@@ -11,7 +11,7 @@ I specialize in the following data solutions:
 ✔️ Creating and automating data pipelines & ETL processes  
 ✔️ Building highly intuitive, interactive dashboards  
 ✔️ Data Cleaning and Processing  
-✔️ Data Migration (Heterogenous and Homogenous)
+✔️ Data Migration
 
 A bit of **BIO**:
 
